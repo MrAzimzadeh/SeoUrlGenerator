@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    
+    <!-- NuGet Package Properties -->
+    <PackageId>SeoUrlGenerator</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Mahammad Azimzada</Authors>
+    <Company>azimzada.com</Company>
+    <Description>A powerful .NET library for generating SEO-friendly URLs with multi-language support. Supports 30+ languages including Turkish, German, French, Spanish, Russian, Arabic, Chinese, and many more.</Description>
+    <PackageTags>seo;url;generator;multilanguage;turkish;german;french;spanish;russian;arabic</PackageTags>
+    <PackageProjectUrl>https://github.com/MrAzimzadeh/SeoUrlGenerator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MrAzimzadeh/SeoUrlGenerator</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
+
+</Project>

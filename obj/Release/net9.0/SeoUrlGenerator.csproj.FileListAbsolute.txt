@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\bin\Release\net9.0\SeoUrlGenerator.deps.json
+C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\bin\Release\net9.0\SeoUrlGenerator.dll
+C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\bin\Release\net9.0\SeoUrlGenerator.pdb
+C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\obj\Release\net9.0\SeoUrlGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\obj\Release\net9.0\SeoUrlGenerator.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\obj\Release\net9.0\SeoUrlGenerator.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\obj\Release\net9.0\SeoUrlGenerator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\obj\Release\net9.0\SeoUrlGenerator.dll
+C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\obj\Release\net9.0\refint\SeoUrlGenerator.dll
+C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\obj\Release\net9.0\SeoUrlGenerator.pdb
+C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\obj\Release\net9.0\ref\SeoUrlGenerator.dll

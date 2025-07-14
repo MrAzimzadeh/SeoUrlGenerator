@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SeoUrlGenerator</id>
+    <version>1.0.0</version>
+    <authors>Mahammad Azimzada</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/MrAzimzadeh/SeoUrlGenerator</projectUrl>
+    <description>A powerful .NET library for generating SEO-friendly URLs with multi-language support. Supports 30+ languages including Turkish, German, French, Spanish, Russian, Arabic, Chinese, and many more.</description>
+    <tags>seo url generator multilanguage turkish german french spanish russian arabic</tags>
+    <repository type="git" url="https://github.com/MrAzimzadeh/SeoUrlGenerator" commit="8db870c219305211f1cf0652ffe3d8a7b373bd6f" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\bin\Release\net9.0\SeoUrlGenerator.dll" target="lib\net9.0\SeoUrlGenerator.dll" />
+    <file src="C:\Users\LENOVO\Desktop\MyLib\SeoUrlGenerator\README.md" target="\README.md" />
+  </files>
+</package>

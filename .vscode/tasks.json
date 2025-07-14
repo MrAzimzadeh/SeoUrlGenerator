@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build and Pack SeoUrlGenerator",
+			"type": "shell",
+			"command": "dotnet",
+			"args": [
+				"pack",
+				"-c",
+				"Release"
+			],
+			"group": "build",
+			"problemMatcher": [
+				"$tsc"
+			]
+		}
+	]
+}
